@@ -9,6 +9,8 @@ _____________________________
 
 project_name: `Nehito`
 
+tone: `Male`
+
 step#: `1M`
 
 audio data: `6 hours`
