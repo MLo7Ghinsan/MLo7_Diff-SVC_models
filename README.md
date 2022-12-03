@@ -21,7 +21,7 @@ Team Title: `MLo7`
 
 ### Permissions
 
-render and upload results: `allowed`
+render and share results: `allowed`
 
 used for pretraining: `allowed`
 
