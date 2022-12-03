@@ -11,6 +11,8 @@ project_name: `Nehito`
 
 step#: `1M`
 
+audio data: `6 hours`
+
 VP: `Ghin K.`
 
 Team Title: `MLo7`
