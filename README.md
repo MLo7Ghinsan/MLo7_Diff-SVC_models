@@ -30,7 +30,7 @@ NSFW: `allowed` (well, he's 18+ and I'm adding this due to a controversy on a so
 #### DEMO 
 https://user-images.githubusercontent.com/98134320/205816274-16dd3ca6-8440-48b6-bc45-92f9bd743618.mov
 
-
+#### [DOWNLOAD](https://github.com/MLo7Ghinsan/MLo7_Diff-SVC_models/releases/tag/models)
 
 
 _____________________________
