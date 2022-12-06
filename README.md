@@ -17,7 +17,7 @@ audio data: `6 hours`
 
 VP: `Ghin K.`
 
-Team Title: `MLo7`
+Team Title: `Archivoice`
 
 ### Permissions
 
@@ -27,6 +27,10 @@ used for pretraining: `allowed`
 
 NSFW: `allowed` (well, he's 18+ and I'm adding this due to a controversy on a social platform)
 
-#### [DEMO](http://sndup.net/gtm2)
+#### DEMO 
+https://user-images.githubusercontent.com/98134320/205816274-16dd3ca6-8440-48b6-bc45-92f9bd743618.mov
+
+
+
 
 _____________________________
