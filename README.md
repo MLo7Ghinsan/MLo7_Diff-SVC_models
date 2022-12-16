@@ -13,7 +13,7 @@ tone: `Male`
 
 step#: `1M`
 
-audio data: `6 hours` | `[4 hours of singing, 2 hours of raw concatinative synth samples]`
+audio data: `6 hours` | `[4 hours of singing, 2 hours of raw concatenative synth samples]`
 
 VP: `Ghin K.`
 
@@ -42,7 +42,7 @@ tone: `Male`
 
 step#: `1M`
 
-audio data: `8 hours` | `[6 hours of singing, 2 hours of raw concatinative synth samples]`
+audio data: `8 hours` | `[6 hours of singing, 2 hours of raw concatenative synth samples]`
 
 VP: `Ghin K.`
 
