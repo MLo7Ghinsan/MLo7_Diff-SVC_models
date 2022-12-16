@@ -59,7 +59,7 @@ NSFW: `allowed`
 #### DEMO 
 ##coming soon
 
-#### DOWNLOAD coming soon
+#### [DOWNLOAD](https://github.com/MLo7Ghinsan/MLo7_Diff-SVC_models/releases/tag/models)
 
 
 _____________________________
