@@ -65,3 +65,30 @@ NSFW: `allowed`
 
 
 _____________________________
+
+## _Yokuatsu Takuto_ (24khz)
+
+project_name: `Takuto`
+
+tone: `Male`
+
+step#: `150k`
+
+audio data: `1 hour, 22 minutes` | `[raw concatenative synth samples + augmented pitch for data]`
+
+VP: `Taktger`
+
+Team Title: `Taktger`
+
+### Permissions
+
+render and share results: `allowed`
+
+used for pretraining: `not allowed` | `due to this model was a ported model test`
+
+NSFW: `allowed`
+
+#### DEMO 
+##coming soon
+
+#### DOWNLOAD COMING SOON
