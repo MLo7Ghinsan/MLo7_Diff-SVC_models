@@ -59,6 +59,8 @@ NSFW: `allowed`
 #### DEMO 
 ##coming soon
 
+###### This model was trained during the beta stage of 44khz diff-svc, so expect quality to differ
+
 #### [DOWNLOAD](https://github.com/MLo7Ghinsan/MLo7_Diff-SVC_models/releases/tag/models)
 
 
