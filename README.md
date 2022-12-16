@@ -13,7 +13,7 @@ tone: `Male`
 
 step#: `1M`
 
-audio data: `6 hours`
+audio data: `6 hours` | `[4 hours of singing, 2 hours of raw concatinative synth samples]`
 
 VP: `Ghin K.`
 
@@ -25,12 +25,41 @@ render and share results: `allowed`
 
 used for pretraining: `allowed`
 
-NSFW: `allowed` (well, he's 18+ and I'm adding this due to a controversy on a social platform)
+NSFW: `allowed`
 
 #### DEMO 
 https://user-images.githubusercontent.com/98134320/205816274-16dd3ca6-8440-48b6-bc45-92f9bd743618.mov
 
 #### [DOWNLOAD](https://github.com/MLo7Ghinsan/MLo7_Diff-SVC_models/releases/tag/models)
+
+_____________________________
+
+## _Nehito Ketsu_ (44khz)
+
+project_name: `Nehito`
+
+tone: `Male`
+
+step#: `1M`
+
+audio data: `8 hours` | `[6 hours of singing, 2 hours of raw concatinative synth samples]`
+
+VP: `Ghin K.`
+
+Team Title: `Archivoice`
+
+### Permissions
+
+render and share results: `allowed`
+
+used for pretraining: `allowed`
+
+NSFW: `allowed`
+
+#### DEMO 
+##coming soon
+
+#### DOWNLOAD coming soon
 
 
 _____________________________
