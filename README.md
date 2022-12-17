@@ -72,7 +72,7 @@ project_name: `Takuto`
 
 tone: `Male`
 
-step#: `125k`
+step#: `50k` | `used pretrain`
 
 audio data: `1 hour, 22 minutes` | `[raw concatenative synth samples + augmented pitch for data]`
 
