@@ -92,3 +92,32 @@ NSFW: `allowed`
 ##coming soon
 
 #### DOWNLOAD COMING SOON
+
+_____________________________
+
+## _Toshio Sasagawa_ (24khz)
+
+project_name: `Toshio`
+
+tone: `Male`
+
+step#: `TBD` | `used pretrain`
+
+audio data: `2 hour, 18 minutes` | `[1 hour 22 minutes of raw concatenative synth samples + augmented pitch for data, 49 minutes of vsynth render]`
+
+VP: `Toshio Sasagawa`
+
+Team Title: `Toshio`
+
+### Permissions
+
+render and share results: `allowed`
+
+used for pretraining: `not allowed` | `not enough singing data-type`
+
+NSFW: `allowed`
+
+#### DEMO 
+##coming soon
+
+#### DOWNLOAD COMING SOON
