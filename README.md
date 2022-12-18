@@ -104,6 +104,7 @@ tone: `Male`
 step#: `TBD` | `used pretrain`
 
 audio data: `2 hour, 18 minutes`
+
 audio data: `[1 hour 22 minutes of raw concatenative synth samples + augmented pitch for data, 49 minutes of vsynth render]`
 
 VP: `Toshio Sasagawa`
