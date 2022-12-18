@@ -89,9 +89,9 @@ used for pretraining: `not allowed` | `due to this model was a ported model test
 NSFW: `allowed`
 
 #### DEMO 
-##coming soon
+https://user-images.githubusercontent.com/98134320/208283084-379f7744-7719-4e34-b202-979965c20939.mov
 
-#### DOWNLOAD COMING SOON
+#### [DOWNLOAD](https://github.com/MLo7Ghinsan/MLo7_Diff-SVC_models/releases/tag/models)
 
 _____________________________
 
