@@ -72,9 +72,9 @@ project_name: `Takuto`
 
 tone: `Male`
 
-step#: `50k` | `used pretrain`
+step#: `TBD` | `used pretrain`
 
-audio data: `1 hour, 22 minutes` | `[raw concatenative synth samples + augmented pitch for data]`
+audio data: `2 hour, 18 minutes` | `[1 hour 22 minutes of raw concatenative synth samples + augmented pitch for data, 49 minutes of vsynth render]`
 
 VP: `Taktger`
 
