@@ -27,7 +27,7 @@ used for pretraining: `allowed`
 
 NSFW: `allowed`
 
-#### DEMO 
+#### DEMO ___ (music by JVKE)
 https://user-images.githubusercontent.com/98134320/205816274-16dd3ca6-8440-48b6-bc45-92f9bd743618.mov
 
 #### [DOWNLOAD](https://github.com/MLo7Ghinsan/MLo7_Diff-SVC_models/releases/tag/models)
@@ -72,7 +72,7 @@ project_name: `Takuto`
 
 tone: `Male`
 
-step#: `TBD` | `used pretrain`
+step#: `250k` | `used pretrain`
 
 audio data: `2 hour, 18 minutes` | `[1 hour 22 minutes of raw concatenative synth samples + augmented pitch, 49 minutes of vsynth render]`
 
@@ -88,7 +88,7 @@ used for pretraining: `not allowed` | `due to this model was a ported model test
 
 NSFW: `allowed`
 
-#### DEMO 
+#### DEMO ___ (music by VocaCircus)
 https://user-images.githubusercontent.com/98134320/208283084-379f7744-7719-4e34-b202-979965c20939.mov
 
 #### [DOWNLOAD](https://github.com/MLo7Ghinsan/MLo7_Diff-SVC_models/releases/tag/models)
